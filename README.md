@@ -4,7 +4,7 @@ Et ID på discord bliver brugt til at identificere en bruger, kanal eller server
 <details close>
   <summary><b>Her er et eksempel</b></summary>
   <p>
-Min discord bruger hedder **Jazper#2621**, jeg har ikke nitro, og der er en anden der gerne vil lade som om at han er mig. Han køber nitro og laver sit brugernavn om til Jazper. Fordi han har nitro, så kan han også ændre sin diskriminator, så det ændre han til **2621**, det samme som mit. Da jeg ikke har nitro, så vil jeg nu få en ny diskriminator, fordi nitro brugere får "diskriminator prioritet". Så nu har jeg brugeren **Jazper#6489** og ham der vil efterligne mig har nu mit gamle **Jazper#2621**. Hvis jeg havde mit gamle brugernavn og diskriminator stående på en hjemmeside, så vil ham der efterligner mig nu se mere troværdig ud.  
+Min discord bruger hedder <b>Jazper#2621</b>, jeg har ikke nitro, og der er en anden der gerne vil lade som om at han er mig. Han køber nitro og laver sit brugernavn om til Jazper. Fordi han har nitro, så kan han også ændre sin diskriminator, så det ændre han til <b>2621</b>, det samme som mit. Da jeg ikke har nitro, så vil jeg nu få en ny diskriminator, fordi nitro brugere får "diskriminator prioritet". Så nu har jeg brugeren <b>Jazper#6489</b> og ham der vil efterligne mig har nu mit gamle <b>Jazper#2621</b>. Hvis jeg havde mit gamle brugernavn og diskriminator stående på en hjemmeside, så vil ham der efterligner mig nu se mere troværdig ud.  
   </p>
 </details>
 
