@@ -8,7 +8,7 @@ Min discord bruger hedder **Jazper#2621**, jeg har ikke nitro, og der er en ande
   </p>
 </details>
 
-Hvis du vil [rapportere en til Discord](https://dis.gd/request) for at bryde deres [Terms of Service](https://discord.com/terms) eller [Guidelines](https://discord.com/guidelines), så vil de også have meget nemmere ved at identificere den bruger der har brudt deres regler, da personen bare kan ændre sit navn efter at have sendt noget der ikke er tilladt.   
+Hvis du vil [rapportere en til Discord](https://dis.gd/request 'Klik her for at rapportere en bruger') for at bryde deres [Terms of Service](https://discord.com/terms 'Klik her for at læse discords Terms of Service') eller [Guidelines](https://discord.com/guidelines 'Klik her for at læse discords Guidelines'), så vil de også have meget nemmere ved at identificere den bruger der har brudt deres regler, da personen bare kan ændre sit navn efter at have sendt noget der ikke er tilladt.   
 Hvis du vil dele din bruger med andre, så de f.eks. kan tilføje dig, så brug et link i stedet for bruger+diskriminator, linket vil virke indtil du eller discord sletter din bruger.
 Udskift DISCORD_ID med dit 17 eller 18 cifrede ID. Nedenunder er der en hurtig guide til, hvordan du finder dit eget eller andres ID.  
 **https://discord.com/users/DISCORD_ID**  
